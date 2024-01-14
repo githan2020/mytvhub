@@ -233,49 +233,49 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",河北影视剧
 https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8
-#EXTINF:-1 ,河北都市
+#EXTINF:-1 group-title="河北",河北都市
 http://weblive.hebtv.com/live/hbds_bq/index.m3u8
-#EXTINF:-1 ,河北都市
+#EXTINF:-1 group-title="河北" ,河北都市
 http://weblive.hebtv.com/live/hbds_lc/index.m3u8
-#EXTINF:-1 ,河北经济
+#EXTINF:-1 group-title="河北",河北经济
 http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
-#EXTINF:-1 ,河北经济
+#EXTINF:-1 group-title="河北",河北经济
 http://weblive.hebtv.com/live/hbjj_lc/index.m3u8
-#EXTINF:-1 ,河北经济
+#EXTINF:-1 group-title="河北",河北经济
 http://wuqiao.chinashadt.com:2035/live/di3.stream/playlist.m3u8
-#EXTINF:-1 ,河北经济
+#EXTINF:-1 group-title="河北",河北经济
 http://hbfc.chinashadt.com:2036/live/6.stream/playlist.m3u8
-#EXTINF:-1 ,河北影视
+#EXTINF:-1 group-title="河北",河北影视
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
-#EXTINF:-1 ,河北影视
+#EXTINF:-1 group-title="河北",河北影视
 http://weblive.hebtv.com/live/hbys_lc/index.m3u8
-#EXTINF:-1 ,河北影视
+#EXTINF:-1 group-title="河北",河北影视
 http://wuqiao.chinashadt.com:2035/live/di7.stream/playlist.m3u8 
-#EXTINF:-1 ,河北少儿
+#EXTINF:-1 group-title="河北" ,河北少儿
 http://weblive.hebtv.com/live/hbse_bq/index.m3u8
-#EXTINF:-1 ,河北少儿
+#EXTINF:-1 group-title="河北" ,河北少儿
 http://weblive.hebtv.com/live/hbse_lc/index.m3u8
-#EXTINF:-1 ,河北公共
+#EXTINF:-1 group-title="河北" ,河北公共
 http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
-#EXTINF:-1 ,河北公共
+#EXTINF:-1 group-title="河北" ,河北公共
 http://weblive.hebtv.com/live/hbgg_lc/index.m3u8
-#EXTINF:-1 ,河北农民
+#EXTINF:-1 group-title="河北" ,河北农民
 http://weblive.hebtv.com/live/nmpd_bq/index.m3u8  
-#EXTINF:-1 group-title="•地区",「河北」邯郸公共频道
+#EXTINF:-1 group-title="河北",「河北」邯郸公共频道
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 group-title="•地区",「河北」邯郸公共频道
+#EXTINF:-1 group-title="河北",「河北」邯郸公共频道
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 group-title="•地区",「河北」邯郸科技教育
+#EXTINF:-1 group-title="河北",「河北」邯郸科技教育
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-#EXTINF:-1 group-title="•地区",「河北」鹿泉一套
+#EXTINF:-1 group-title="河北",「河北」鹿泉一套
 https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-#EXTINF:-1 group-title="•地区",「河北」石家庄都市
+#EXTINF:-1 group-title="河北",「河北」石家庄都市
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-#EXTINF:-1 group-title="•地区",「河北」石家庄生活
+#EXTINF:-1 group-title="河北",「河北」石家庄生活
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
-#EXTINF:-1 group-title="•地区",「河北」石家庄新闻综合
+#EXTINF:-1 group-title="河北",「河北」石家庄新闻综合
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-#EXTINF:-1 group-title="•地区",「河北」石家庄娱乐
+#EXTINF:-1 group-title="河北",「河北」石家庄娱乐
 http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/河北广播.png" group-title="•广播",河北广播
 https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
