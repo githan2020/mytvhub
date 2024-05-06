@@ -1,0 +1,527 @@
+{
+  "sites": [
+    {
+      "key": "Alist",
+      "name": "馃専灏忛泤鈹冮珮娓�",
+      "type": 3,
+      "api": "http://192.168.1.200:5678/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    },
+    {
+      "key": "璞嗚眴",
+      "name": "馃寱鍏紬鍙枫€愮绉樼殑鍝ュ摜浠€�",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "鐜╁伓",
+      "name": "馃懡鐜╁伓鍝ュ摜鈹�4K寮瑰箷",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "YGP",
+      "name": "馃殌鍙ㄨ鑽愬奖鈹冩柊鐗�",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "閰风湅",
+      "name": "馃挕閰风湅鈹冪鎾�",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鍘熷垱",
+      "name": "鈽€鍘熷垱鈹冩棤骞�",
+      "type": 3,
+      "api": "csp_YCyz",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鑻规灉",
+      "name": "馃崕鑻规灉鈹冧笉鍗�",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鐧藉珫",
+      "name": "馃懟鐧介鈹冧笉鍗�",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.baipiaoys.com:9092/"
+    },
+    {
+      "key": "灏忕偣",
+      "name": "馃挜灏忕偣鈹冨绾�",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "瑙嗚",
+      "name": "馃憮瑙嗚鈹冨绾�",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "鍘傞暱",
+      "name": "馃摂鍘傞暱鈹冧笉鍗�",
+      "type": 3,
+      "api": "csp_NewCz",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://czzy.top/"
+    },
+    {
+      "key": "涓冧竷",
+      "name": "馃憭涓冧竷鈹冪鎾�",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鍗楃摐",
+      "name": "馃巸鍗楃摐鈹冨绾�",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "绯背",
+      "name": "馃崣绯背鈹冪鎾�",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+    },
+    {
+      "key": "浣庣",
+      "name": "鈴笍浣庣鈹冨鍓�",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "姣涢┐",
+      "name": "馃崜姣涢┐鈹冨绾�",
+      "type": 3,
+      "api": "csp_MLYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.maolvys.com/"
+    },
+    {
+      "key": "钀岀背",
+      "name": "馃憖钀岀背鈹冨绾�",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "姣旂壒",
+      "name": "馃崉姣旂壒鈹冪鎾�",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zxzj",
+      "name": "馃崐鍦ㄧ嚎鈹冨鍓�",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "Lib",
+      "name": "馃専绔嬫挱鈹冩棤骞�",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.libvio.pw/"
+    },
+    {
+      "key": "Auete",
+      "name": "馃彎濂ョ壒鈹冩棤骞�",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://auete.pro/"
+    },
+    {
+      "key": "璐辫幢",
+      "name": "馃惌璐辫幢鈹働2P",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+    },
+    {
+      "key": "鏂�6V",
+      "name": "馃Р鏂�6V鈹冪鍔�",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "Dm84",
+      "name": "馃殞宸村＋鈹冨姩婕�",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Ying",
+      "name": "馃挳妯辫姳鈹冨姩婕�",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Ysj",
+      "name": "馃巰寮傜晫鈹冨姩婕�",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Anime1",
+      "name": "馃惥鏃ユ湰鈹冨姩婕�",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "88js",
+      "name": "鈿� 88鈹冪湅鐞�",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "Jrsjs",
+      "name": "鈿� Jrs鈹冪悆杩�",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js"
+    },
+    {
+      "key": "310js",
+      "name": "鈿�310鈹冪湅鐞�",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310鐩存挱.js"
+    },
+    {
+      "key": "浼侀箙浣撹偛xp",
+      "name": "馃惂楣呴箙鈹冧綋鑲�",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/浼侀箙鐩存挱.json"
+    },
+    {
+      "key": "閰峰",
+      "name": "馃帳閰峰鈹僊V",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/閰峰MV.js"
+    },
+    {
+      "key": "MTV",
+      "name": "馃帶鏄庢槦鈹僊V",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+    {
+      "key": "鐭墽",
+      "name": "馃寛涓婂ご鈹冪煭鍓�",
+      "type": 3,
+      "api": "csp_Djuu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "馃摻锔忕綉绾⑩攦鐩存挱",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "铏庣墮鐩存挱js",
+      "name": "馃惎铏庣墮鈹冪洿鎾�",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js"
+    },
+    {
+      "key": "鏂楅奔js",
+      "name": "馃悷鏂楅奔鈹冪洿鎾�",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/鏂楅奔鐩存挱.js"
+    },
+    {
+      "key": "鑱氱煭瑙嗛js",
+      "name": "馃摻锔忚仛鐭攦瑙嗛",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/鐭棰�.js"
+    },
+    {
+      "key": "鏈夊０灏忚js",
+      "name": "馃帶鏈夊０鈹冨皬璇�",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/鏈夊０灏忚鍚�.js"
+    },
+    {
+      "key": "Aid",
+      "name": "馃殤鎬ユ晳鈹冩暀瀛�",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "澶告悳",
+      "name": "馃惡澶告悳鈹冩悳绱�",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "YiSo",
+      "name": "馃樄鏄撴悳鈹冩悳绱�",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "PanSou",
+      "name": "馃鐩樻悳鈹冩悳绱�",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "UpYun",
+      "name": "馃樆Up鎼溾攦鎼滅储",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "PanSearch",
+      "name": "馃檧鐩楽e鈹冩悳绱�",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "push_agent",
+      "name": "馃洿鎵嬫満鈹冩帹閫�",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "Bili",
+      "name": "馃叡鍝斿摂鈹冨悎闆�",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+    },
+    {
+      "key": "Biliych",
+      "name": "馃叡鏄庢槦鈹冩紨鍞变細",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
+    },
+    {
+      "key": "dr_鍏斿皬璐�",
+      "name": "馃摎鍎跨鈹冨惎钂�",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+    },
+    {
+      "key": "灏戝効鏁欒偛",
+      "name": "馃摎灏戝効鈹冩暀鑲�",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/灏戝効鏁欒偛.json"
+    },
+    {
+      "key": "灏忓璇惧爞",
+      "name": "馃摎灏忓鈹冭鍫�",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/灏忓璇惧爞.json"
+    },
+    {
+      "key": "鍒濅腑璇惧爞",
+      "name": "馃摎鍒濅腑鈹冭鍫�",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/鍒濅腑璇惧爞.json"
+    },
+    {
+      "key": "楂樹腑鏁欒偛",
+      "name": "馃摎楂樹腑鈹冭鍫�",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/楂樹腑璇惧爞.json"
+    },
+    {
+      "key": "cntv",
+      "name": "央视[cat]",
+      "type": 3,
+      "api": "./cat/cntv_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "wallpaper": "https://娣辫壊澹佺焊.xxooo.cf/",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714650590961/fan.txt;md5;177584a6db7606778d53181f34310ae9"
+}
